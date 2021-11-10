@@ -6,4 +6,6 @@ This directory contains all of the JavaScript files created for learning purpose
 
 ## Files
 
+Files are chronologically organized in the list below and are not alphabetically organized.
+
 1. 
