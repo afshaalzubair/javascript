@@ -2,7 +2,7 @@
 
 ## Description
 
-This directory contains all of the JavaScript files created for learning purposes. Files are most likely are not related in the context of web development, as that will be in the web-development repository.
+This directory contains all of the JavaScript files created for learning purposes. Files are most likely are not related in the context of web development, as that is contained in the [web-development repository.](https://github.com/afshaalzubair/web-development)
 
 ## Files
 
