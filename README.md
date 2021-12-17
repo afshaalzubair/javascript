@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A repository dedicated for anything related indirectly to the JavaScript programming language or direct JavaScript code for learning purposes.
+A repository dedicated for anything related indirectly to the JavaScript programming language or direct JavaScript code, primarily for learning purposes.
 
 ## Files
 
