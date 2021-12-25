@@ -10,3 +10,5 @@ The first directory (named 'javascript') contains all of the JavaScript files cr
 
 1. [javascript](https://github.com/afshaalzubair/javascript/tree/main/javascript)
    1. [js-freecodecamp](https://github.com/afshaalzubair/javascript/tree/main/js-freecodecamp)
+   2. [js-mosh](https://github.com/afshaalzubair/javascript/tree/main/javascript/js-mosh)
+2. []()
