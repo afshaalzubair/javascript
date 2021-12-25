@@ -6,6 +6,6 @@ This directory contains all of the JavaScript files created for learning purpose
 
 ## Files
 
-Directories (main list) are chronologically organized, the specific directories (secondary list) are numerically and chronologically organized and are not alphabetically organized, and files (tertiary list) are chronologically organized.
+Directories (main list) are chronologically organized, the specific files are numerically and chronologically organized and are not alphabetically organized.
 
 1. []()
