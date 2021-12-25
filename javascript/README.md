@@ -6,6 +6,7 @@ This directory contains all of the JavaScript files created for learning purpose
 
 ## Files
 
-Files are numerically and chronologically organized in the list below and are not alphabetically organized.
+Directories (main list) are chronologically organized, the specific files are numerically and chronologically organized and are not alphabetically organized.
 
-1. 
+1. [js-freecodecamp](https://github.com/afshaalzubair/javascript/tree/main/js-freecodecamp)
+   1. Insert all 134 files here.
