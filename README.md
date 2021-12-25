@@ -13,4 +13,5 @@ The second directory (named '7games') contains all of the JavaScript directories
 1. [javascript](https://github.com/afshaalzubair/javascript/tree/main/javascript)
    1. [js-freecodecamp](https://github.com/afshaalzubair/javascript/tree/main/js-freecodecamp)
    2. [js-mosh](https://github.com/afshaalzubair/javascript/tree/main/javascript/js-mosh)
-2. []()
+2. [7games](https://github.com/afshaalzubair/javascript/tree/main/7games)
+   1. 
