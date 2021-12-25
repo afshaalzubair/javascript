@@ -10,3 +10,5 @@ Directories (main list) are chronologically organized, the specific files are nu
 
 1. [js-freecodecamp](https://github.com/afshaalzubair/javascript/tree/main/javascript/js-freecodecamp)
    1. Insert all 134 files here.
+2. [js-mosh](https://github.com/afshaalzubair/javascript/tree/main/javascript/js-mosh)
+   1. Insert all course files here.
