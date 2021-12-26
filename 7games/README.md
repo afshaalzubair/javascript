@@ -8,4 +8,4 @@ This directory contains all of the JavaScript files created for learning purpose
 
 Directories (main list) are chronologically organized, the specific files are numerically and chronologically organized and are not alphabetically organized.
 
-1. []()
+1. [01 - Memory Game]()
