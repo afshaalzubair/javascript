@@ -1,3 +1,5 @@
+// currently on hold for the moment
+
 document.addEventListener('DOMContentLoaded', () => {
 
     // card options
